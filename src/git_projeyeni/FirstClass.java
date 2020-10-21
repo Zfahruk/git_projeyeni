@@ -7,7 +7,7 @@ public class FirstClass {
 
 		System.out.println("ilk commit local den saat 19:58");
 
-		System.out.println("ilk commit saat 19:57");
+		System.out.println("ucuncu  commit saat 20:58");
 
 
 	}
